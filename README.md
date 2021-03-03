@@ -21,7 +21,7 @@ If u have ITTU si sharam to yeh kuch kang mat karna😂
 Op bolte ⚡😎
 
 
-!img[](https://telegra.ph/file/0e6912d75e1ea1f7db8d3.jpg)
+![IMG_20210302_132310_782](https://user-images.githubusercontent.com/73427470/109853045-79ba3480-7c7b-11eb-8e97-1f264b0f634d.jpg)
 
 
 
