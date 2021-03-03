@@ -1,7 +1,6 @@
 Hi ⚡
 
-
-!img[https://telegra.ph/file/78d43c6ca9f3e5ff08586.mp4]
+[My intro⚡😎](https://telegra.ph/file/78d43c6ca9f3e5ff08586.mp4)
 
 I am advance in coding😉
 
