@@ -1,7 +1,7 @@
 {
-    "name": "Telegra.ph Uploader Bot",
+    "name": "PROBOT TELEGRAPH MAKER",
     "description": "A bot that can upload medias to Telegra.ph",
-    "logo": "https://telegra.ph/file/5d047f6d56f81ffb1a207.jpg",
+    "logo": "https://telegra.ph/file/7aea352775b51be68d820.jpg",
     "keywords": [
         "Telegra.ph",
         "Uploader",
@@ -9,7 +9,7 @@
         "Benchamxd"
     ],
     "website": "",
-    "repository": "https://github.com/RISHISUPERYO-GAMERZ/PROBOT-TELEGRAPH-MAKER,
+    "repository": "https://github.com/RISHISUPERYO-GAMERZ/PROBOT-TELEGRAPH-MAKER/",
     "success_url": "https://telegram.dog/lamao",
     "env": {
         "TG_BOT_TOKEN": {
