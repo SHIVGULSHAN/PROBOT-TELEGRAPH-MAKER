@@ -16,8 +16,4 @@ Owner 2 of the bot:- (ROCKY) https://t.me/Rocky_8218
 ![IMG_20210226_105718_457](https://user-images.githubusercontent.com/73427470/110158189-119c5780-7e0f-11eb-90e2-9f550cc5faeb.jpg)
 
 
-⚡⚡⚡⚡⚡
-
-#HOW TO SETUP AND DEPLOY
-<a href="https://heroku.com/deploy?template=https://github.com/Rishisuperyo-Gamerz/PROBOT-TELEGRAPH-MAKER/blob/main"> <img src="https://www2.assets.heroku.com/assets/elements/elements-buttons-2-4867044559069b937ba0fd078f5604f310a49928bd1b59fb3d2f0ff96e0d97c8.svg" alt="Deploy to Heroku" /></a></p>
-# work in progress
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
