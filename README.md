@@ -15,5 +15,7 @@ Owner of the bot:- (RISHISUPERYO)https://t.me/Rishisuperyo
 Owner 2 of the bot:- (ROCKY) https://t.me/Rocky_8218
 ![IMG_20210226_105718_457](https://user-images.githubusercontent.com/73427470/110158189-119c5780-7e0f-11eb-90e2-9f550cc5faeb.jpg)
 
+SOME credits to **PIKACHU LAVA TELEGRAPH BOT**
+
 
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
