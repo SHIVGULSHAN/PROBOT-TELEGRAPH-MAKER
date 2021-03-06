@@ -86,7 +86,7 @@ async def home(client, message):
     ],
     [
         InlineKeyboardButton('Our Channel', url='http://telegram.me/Rishisuperyogamerzin'),
-        InlineKeyboardButton('⚡DE🇻🇪🇱🇴🇵🇪🇷⚡ ', url='https://t.me/Rishisuperyo')
+        InlineKeyboardButton('⚡D̸E̸🇪🇱🇴🇵🇪🇷⚡ ', url='https://t.me/Rishisuperyo')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
