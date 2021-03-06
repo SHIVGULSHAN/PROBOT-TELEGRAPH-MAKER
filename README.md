@@ -18,4 +18,8 @@ Owner 2 of the bot:- (ROCKY) https://t.me/Rocky_8218
 SOME credits to **PIKACHU LAVA TELEGRAPH BOT**
 
 
+
+
+
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
