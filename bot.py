@@ -31,7 +31,7 @@ Tgraph = Client(
 
 @Tgraph.on_message(filters.photo)
 async def uploadphoto(client, message):
-  msg = await message.reply_text("`Wait plz Lemme download the photo😘🙂😙`")
+  msg = await message.reply_text("`Wait plz Lemme download the photo😎⚡`")
   userid = str(message.chat.id)
   img_path = (f"./DOWNLOADS/{userid}.jpg")
   img_path = await client.download_media(message=message, file_name=img_path)
@@ -47,7 +47,7 @@ async def uploadphoto(client, message):
 @Tgraph.on_message(filters.animation)
 async def uploadgif(client, message):
   if(message.animation.file_size < 5242880):
-    msg = await message.reply_text("`WAIT AND EK MANTRA DE RAHA WOH BOL MUJHE:- SAKA LAKA BOOM BOOM😂`")
+    msg = await message.reply_text("`WAIT AND EK MANTRA DE RAHA WOH BOL MUJHE:- 𝓢𝓐𝓚𝓐 𝓛𝓐𝓚𝓐 𝓑𝓞𝓞𝓜 𝓑𝓞𝓞𝓜`")
     userid = str(message.chat.id)
     gif_path = (f"./DOWNLOADS/{userid}.mp4")
     gif_path = await client.download_media(message=message, file_name=gif_path)
@@ -57,14 +57,14 @@ async def uploadgif(client, message):
       await msg.edit_text(f"https://telegra.ph{tlink[0]}")   
       os.remove(gif_path)   
     except:
-      await msg.edit_text("Sorry kuch garbar hui hae😭") 
+      await msg.edit_text("『s』『o』『r』『r』『y』 『k』『u』『c』『h』 『g』『a』『r』『b』『a』『r』 『u』『i』 『h』『a』『e』 😔") 
   else:
     await message.reply_text("Bhai yaar aap plz 5 mb ka niche size ma koi pic de sakte😭 plz")
 
 @Tgraph.on_message(filters.video)
 async def uploadvid(client, message):
   if(message.video.file_size < 5242880):
-    msg = await message.reply_text("`ruko zara sabar karo😂😂😂`")
+    msg = await message.reply_text("`r͛u͛k͛o͛ z͛a͛r͛a͛ s͛a͛b͛a͛r͛ k͛a͛r͛o͛😂😂😂`")
     userid = str(message.chat.id)
     vid_path = (f"./DOWNLOADS/{userid}.mp4")
     vid_path = await client.download_media(message=message, file_name=vid_path)
@@ -86,7 +86,7 @@ async def home(client, message):
     ],
     [
         InlineKeyboardButton('Our Channel', url='http://telegram.me/Rishisuperyogamerzin'),
-        InlineKeyboardButton('𝑫𝑬𝑽𝑳𝑶𝑷𝑬𝑹', url='https://t.me/Rishisuperyo')
+        InlineKeyboardButton('🇩 🇪 🇻 🇪 🇱 🇴 🇵 🇪 🇷 ', url='https://t.me/Rishisuperyo')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
