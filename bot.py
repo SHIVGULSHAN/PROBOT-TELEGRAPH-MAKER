@@ -110,14 +110,14 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='http://telegram.me/ultramaxupdates')
+        InlineKeyboardButton('Our Channel', url='http://telegram.me/Rishisuperyogamerzin')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
         chat_id=message.chat.id,
-        text="""There Is Nothing To Know More,
+        text="""⚡⚡⚡⚡⚡
         
-Just Send Me A Video/gif/photo Upto 5 mb.
+Just AREE BHAI MUJHE PLZ YAAR 5MB KA NICHE ,GIF YA PHOTO YA VID SEND KARNA OK😂😊⚡
 
 i'll upload it to telegra.ph and give you the direct link""",
         reply_markup=reply_markup,
