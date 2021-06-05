@@ -91,7 +91,7 @@ async def home(client, message):
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
         chat_id=message.chat.id,
-        text="""<b>Halo me yaha hu dekh😶😉,
+        text="""<b>Hello this is tandav x telegraph converter bot thanks for using this bot me 😶😉,
         
 im a telegraph Uploader That Can Upload Photo, Video And Gif
         
