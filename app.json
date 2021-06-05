@@ -9,7 +9,7 @@
         "Benchamxd"
     ],
     "website": "",
-    "repository": "https://github.com/RISHISUPERYO-GAMERZ/PROBOT-TELEGRAPH-MAKER/",
+    "repository": "https://github.com/SHIVGULSHAN/PROBOT-TELEGRAPH-MAKER",
     "success_url": "https://telegram.dog/lamao",
     "env": {
         "TG_BOT_TOKEN": {
