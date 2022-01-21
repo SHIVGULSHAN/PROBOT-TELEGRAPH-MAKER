@@ -91,7 +91,7 @@ async def home(client, message):
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
         chat_id=message.chat.id,
-        text="""<b>Hello this is kaalxdefenders telegraph converter bot thanks for using this bot our best tandav x team made this bot
+        text="""<b>Hello this is kaalxdefenders telegraph converter bot thanks for using this bot our best kaal networks and defenders network team made this bot
  😶😉,
         
 im a telegraph Uploader That Can Upload Photo, Video And Gif
