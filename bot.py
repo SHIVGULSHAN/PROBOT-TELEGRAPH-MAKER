@@ -85,8 +85,8 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='https://t.me/KAALNETWORK'),
-        InlineKeyboardButton('⚡D̸E̸V͎E͎L͢O͢P̶E̶R̶⚡ ', url='https://t.me/DEFENDERS_NETWORK')
+        InlineKeyboardButton('Our Channel', url='https://t.me/KAAL_TORNADO_NETWORK'),
+        InlineKeyboardButton('⚡D̸E̸V͎E͎L͢O͢P̶E̶R̶⚡ ', url='https://t.me/KAAL_TORNADO_UPDATES')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
