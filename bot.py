@@ -85,13 +85,13 @@ async def home(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='https://t.me/KAAL_TORNADO_NETWORK'),
-        InlineKeyboardButton('⚡D̸E̸V͎E͎L͢O͢P̶E̶R̶⚡ ', url='https://t.me/KAAL_TORNADO_UPDATES')
+        InlineKeyboardButton('Our Channel', url='https://t.me/MAHADEV_TORNADO_NETWORK'),
+        InlineKeyboardButton('⚡D̸E̸V͎E͎L͢O͢P̶E̶R̶⚡ ', url='https://t.me/MAHADEV_TORNADO_UPDATES')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
         chat_id=message.chat.id,
-        text="""<b>Hello this is KAALTORNADO telegraph converter bot thanks for using this bot our best KAAL TORNADO NETWORK team made this bot
+        text="""<b>Hello this is MAHADEV TORNADO telegraph converter bot thanks for using this bot our best MAHADEV TORNADO NETWORK team made this bot
  😶😉,
         
 im a telegraph Uploader That Can Upload Photo, Video And Gif
@@ -111,7 +111,7 @@ async def help(client, message):
         InlineKeyboardButton('Close', callback_data='close')
     ],
     [
-        InlineKeyboardButton('Our Channel', url='https://t.me/KAAL_TORNADO_NETWORK')
+        InlineKeyboardButton('Our Channel', url='https://t.me/MAHADEV_TORNADO_NETWORK')
     ]]
   reply_markup = InlineKeyboardMarkup(buttons)
   await Tgraph.send_message(
